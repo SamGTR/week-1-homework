@@ -17,7 +17,7 @@ Following is the list of issues and their solutions implemented:
 ## Screenshot
 Below is the screenshot of the Horiseon web application after refactoring completed:
 
-![The Horiseon webpage screenshot.](/Assets/images/01-html-css-git-homework-demo.png)
+![The Horiseon webpage screenshot.](/assets/images/01-html-css-git-homework-demo.png)
 ## Links
 Following is the link to the Horiseon web application:  
 https://samgtr.github.io/week-1-homework/  
